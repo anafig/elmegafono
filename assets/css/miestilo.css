@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(238, 195, 170) !important;
+}
+
+header {
+    margin-top: 2%;
+}
+
+.container__1 {
+    background-color: white !important;
+    border-top-left-radius: 9px;
+  border-top-right-radius: 9px;
+ 
+}
+
+.container__2 {
+    background-color: white !important;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+ 
+}
+
+.fuente__1 {
+    font-family: jauria !important;
+    font-weight: bold !important;
+    font-size: 28px;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.fuente__2 {
+    font-size: 12px;
+}
+
+.wow1 {
+    padding: 3px;
+}
+
+.foto1 {
+    padding-top: 4%;
+    width: 100%;
+    height: 100%;
+}
+
+.hola1 {
+    padding-top: 2%;
+}
+
+.titulo1 {
+    font-weight: bold !important;
+    font-size: 30px;
+}
+
+.titulo2 {
+    font-weight: bold !important;
+    font-size: 15px;
+}
+
+.cursiva1 {
+    font-style: italic;
+    font-weight: bolder;
+}
